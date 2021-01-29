@@ -1,4 +1,5 @@
 The Flask App should be running for the Flutter App to function
+Run the Flask App using the command flask run --host={YOUR IP} --port=5000
 Run ipconfig in terminal and get IPv4 address of the machine in which Flask App is running
 Connect both testing mobile and machine to the same WiFi network
 Install the Flutter SDK from flutter.dev in laptop and do the necessary configurations
