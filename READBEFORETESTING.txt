@@ -1,0 +1,7 @@
+The Flask App should be running for the Flutter App to function
+Run ipconfig in terminal and get IPv4 address of the machine in which Flask App is running
+Connect both testing mobile and machine to the same WiFi network
+Install the Flutter SDK from flutter.dev in laptop and do the necessary configurations
+Open the IRIS_TASK file in Android Studio or VS code (install the Flutter and Dart plugins)
+Edit 'kURL' variable based on instructions provided in the constants.dart file inside the lib folder of the IRIS_TASK project
+Run the app in a REAL DEVICE and test it out
