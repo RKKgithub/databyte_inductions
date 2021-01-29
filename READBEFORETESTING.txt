@@ -1,3 +1,5 @@
+Flutter App code is in the branch master
+
 The Flask App should be running for the Flutter App to function
 Run the Flask App using the command flask run --host={YOUR IP} --port=5000
 Run ipconfig in terminal and get IPv4 address of the machine in which Flask App is running
