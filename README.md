@@ -7,3 +7,5 @@ An optimizer also exists to increase accuracy and reduce the loss factor in the 
 I've used the tflite_flutter package to ease usage of Tensorflow Lite inside the app.
 The python code using Tensorflow is placed in a Flask project and the app networks with the Flask project using APIs.
 The functions performed in Flask is returned to the app in the form of Jsons. We decode the Json file and then use it in the app.
+
+The Repository has 2 branches. The master branch has the code for the app and the main branch has previous task stuff, images of the app and the tflite model (I did this recently just because of the fact that the model is nested in the assets folder of the app code and I wanted to make it more visible.
